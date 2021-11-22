@@ -4,4 +4,4 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Akbar (https://github.com/mhakbar/lighthouse-web-notes.git) for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by Akbar(https://github.com/mhakbar/lighthouse-web-notes.git) for the Lighthouse Labs Web Development Bootcamp.
